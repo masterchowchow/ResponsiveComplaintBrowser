@@ -1,0 +1,10 @@
+{
+  "description": "This web app allows users to report issues with RapidKL trains, selecting from various train types and stations to streamline feedback and improve service.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
