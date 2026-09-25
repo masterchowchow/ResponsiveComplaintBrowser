@@ -54,7 +54,7 @@ const BAR_SLOT = BAR_W + BAR_GAP  // 16px per bar
 
 // ── Assets ───────────────────────────────────────────────────────────────────
 
-const A = '/assets'
+const A = `${import.meta.env.BASE_URL}assets`
 const imgCloudRMask  = `${A}/dca1f.svg`
 const imgCloudRFill  = `${A}/c0cba.svg`
 const imgCloudLMask  = `${A}/ebfc8.svg`
